@@ -1,0 +1,25 @@
+{
+    "name": "tic-tac-toe",
+    "version": "1.5.0",
+    "description": "tic-tac-toe multiplayer game",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "tic-tac-toe",
+        "multiplayer",
+        "socket.io",
+        "express"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lhernandezcruz/tic-tac-toe.git"
+    },
+    "author": "lhernandezcruz",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3",
+        "socket.io": "^2.0.1"
+    }
+}
